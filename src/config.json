@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "userId": "367024971412799489",
+    "username": "ursize",
+    "displayName": "ursize",
+    "tag": "@ursize",
+    "domain": "ursize.xyz",
+    "experienceYears": 2,
+    "targetYear": 2027,
+    "timezone": "Europe/Amsterdam",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+    "avatar": "https://cdn.discordapp.com/avatars/367024971412799489/d69ed1c31c03b1e8dca2af26243ba824.png?size=256",
+    "avatarDecoration": "https://cdn.discordapp.com/avatar-decoration-presets/a_98c7600d304b86ca3b18272e1da05559.png?size=160",
+    "bio": "building discord ecosystems, custom bots & automated escrow services. active developer. dm for custom work.",
+    "badges": [
+      {
+        "name": "HypeSquad Bravery",
+        "icon": "badges/hypesquad-bravery.svg"
+      },
+      {
+        "name": "Subscriber since Oct 2017 (Opal 6+ Years)",
+        "icon": "badges/nitro-opal.svg"
+      },
+      {
+        "name": "Server Booster",
+        "icon": "badges/booster.svg"
+      }
+    ]
+  },
+  "nitroBadges": {
+    "bronze": "badges/nitro-bronze.svg",
+    "silver": "badges/nitro-silver.svg",
+    "gold": "badges/nitro-gold.svg",
+    "platinum": "badges/nitro-platinum.svg",
+    "diamond": "badges/nitro-diamond.svg",
+    "emerald": "badges/nitro-emerald.svg",
+    "ruby": "badges/nitro-ruby.svg",
+    "opal": "badges/nitro-opal.svg"
+  },
+
+  "links": {
+    "discord": "https://discord.com/users/367024971412799489",
+    "store": "https://discord.gg/ursize"
+  },
+  "bubbles": true,
+  "music": [
+    {
+      "name": "Bounce Out x Limerence",
+      "src": "https://files.catbox.moe/cs2ari.mp3",
+      "spotify": "https://open.spotify.com/track/5lZsh9Qf7CbHI9Fcc7Zcsq",
+      "art": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02af41341020c85f2f2279aeb2",
+      "duration": 165
+    },
+    {
+      "name": "Airplane Mode",
+      "src": "https://files.catbox.moe/h6srmw.mp3",
+      "spotify": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge",
+      "art": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02d653f88352c2da499146473f",
+      "duration": 142
+    }
+  ],
+  "crypto": {
+    "BTC": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+    "LTC": "ltc1qu98v6a3uux6x9948c3gpx8f8h30a08y5kex7s8",
+    "ETH": "0x71C8654a10B17510839eD9b24479535B3b5314C7",
+    "SOL": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
+  }
+}

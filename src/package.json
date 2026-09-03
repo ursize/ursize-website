@@ -1,0 +1,12 @@
+{
+  "name": "mangokushwarm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "obfuscate": "node build.js"
+  },
+  "dependencies": {
+    "@vercel/kv": "^3.0.0"
+  }
+}
